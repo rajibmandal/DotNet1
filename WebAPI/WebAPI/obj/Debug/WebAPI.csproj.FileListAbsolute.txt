@@ -30,3 +30,6 @@ D:\GitHub\DotNet\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
 D:\GitHub\DotNet\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
 D:\GitHub\DotNet\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 D:\GitHub\DotNet\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+D:\GitHub\DotNet\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\GitHub\DotNet\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\GitHub\DotNet\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
