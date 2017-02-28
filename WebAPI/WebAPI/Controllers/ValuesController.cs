@@ -10,9 +10,10 @@ namespace WebAPI.Controllers
     public class ValuesController : ApiController
     {
         // GET api/values
-        public IEnumerable<string> Get()
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            DateTime curTime = DateTime.Now;
+            return curTime.ToString();
         }
 
         // GET api/values/5
